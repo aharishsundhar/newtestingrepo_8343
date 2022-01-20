@@ -1,0 +1,7 @@
+{
+  "name": "newtestingrepo",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
